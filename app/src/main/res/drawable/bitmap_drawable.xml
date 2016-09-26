@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bitmap xmlns:android="http://schemas.android.com/apk/res/android"
+    android:src="@mipmap/ic_launcher"
+    android:tileMode="mirror"
+    android:antialias="true"
+    android:dither="true">
+    <!--mirror  镜像  antialias 抗锯齿 dither 屏幕配置不同时是否允许抖动-->
+
+</bitmap>

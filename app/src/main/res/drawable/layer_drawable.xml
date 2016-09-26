@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:top="20dp"
+        android:left="20dp">
+        <bitmap
+            android:src="@mipmap/ic_launcher"
+            android:gravity="center">
+
+        </bitmap>
+    </item>
+
+    <item
+        android:top="20dp"
+        android:left="20dp">
+        <bitmap
+            android:src="@mipmap/detail_share_icon"
+            android:gravity="center">
+
+        </bitmap>
+    </item>
+</layer-list>
